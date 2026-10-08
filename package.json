@@ -2,7 +2,7 @@
   "name": "isonair",
   "version": "0.0.0",
   "devDependencies": {
-    "wrangler": "^3.26.0"
+    "wrangler": "^4.105.0"
   },
   "private": true,
   "scripts": {
